@@ -1,0 +1,38 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+.formulario{
+  padding-top: 15px;
+}
+h1{
+  padding-bottom: 15px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.registro {
+  border: 2px solid black;
+  border-radius: 5%;
+  background: white;
+  padding: 20px; 
+}
+body{
+  background: linear-gradient(to right,#ff91a4, #ffbed4);
+}
+
+p{
+ padding-top: 15px;
+}
+.social {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  margin: 5px;
+}
+
+
+
+
+
+
